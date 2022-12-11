@@ -29,7 +29,7 @@ async def start(client, message):
                 InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url=f"https://t.me/alexa_movies"),
             ],
             [
-                InlineKeyboardButton('⚡ Support ⚡', url=f"https://t.me/AlexaMoviesupportbot"),
+                InlineKeyboardButton('⚡ SuppØℝt ⚡', url=f"https://t.me/AlexaMoviesupportbot"),
             ],
             [
                 InlineKeyboardButton(text=DOWNLOAD_TEXT_NAME,url=DOWNLOAD_TEXT_URL)
@@ -52,7 +52,7 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url='https://t.me/alexa_movies'),
             InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://t.me/alexa_movies'),
-            InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url=f"https://t.me/AlexaMoviesupportbot")
+            InlineKeyboardButton('⚡ SuppØℝt ⚡', url=f"https://t.me/AlexaMoviesupportbot")
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
@@ -99,7 +99,7 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url='https://t.me/alexa_movies'),
             InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://t.me/alexa_movies'),
-            InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url=f"https://t.me/AlexaMoviesupportbot")
+            InlineKeyboardButton('⚡ SuppØℝt ⚡', url=f"https://t.me/AlexaMoviesupportbot")
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
