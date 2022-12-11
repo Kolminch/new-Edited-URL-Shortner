@@ -23,10 +23,7 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('⚡ UᎮDΛTΞS ⚡', url='https://t.me/alexa_movies')
-            ],
-            [
-                InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url=f"https://t.me/alexa_movies"),
+                InlineKeyboardButton('⚡ Sบbˢcℝïbe ⚡', url=f"https://t.me/alexa_movies"),
             ],
             [
                 InlineKeyboardButton('⚡ SuppØℝt ⚡', url=f"https://t.me/AlexaMoviesupportbot"),
@@ -50,8 +47,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://telegram.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url='https://t.me/alexa_movies'),
-            InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://t.me/alexa_movies'),
+            InlineKeyboardButton('⚡ Sบbˢcℝïbe ⚡', url='https://t.me/alexa_movies'),
+     
             InlineKeyboardButton('⚡ SuppØℝt ⚡', url=f"https://t.me/AlexaMoviesupportbot")
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
@@ -97,8 +94,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://telegram.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url='https://t.me/alexa_movies'),
-            InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://t.me/alexa_movies'),
+            InlineKeyboardButton('⚡ Sบbˢcℝïbe ⚡', url='https://t.me/alexa_movies'),
+            
             InlineKeyboardButton('⚡ SuppØℝt ⚡', url=f"https://t.me/AlexaMoviesupportbot")
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
