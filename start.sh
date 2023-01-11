@@ -1,7 +1,7 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/Girish019/NEW-EDITED-URL-SHORT /Eva
+  git clone https://github.com/Kolminch/new-Edited-URL-Shortner /Eva
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /Eva
